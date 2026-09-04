@@ -1,7 +1,15 @@
-👋 Hi, I'm Bhavya Khandelwal 🚀 B.Tech CS Student | 💡 Aspiring AI Engineer | 🌱 Lifelong Learner
+👋 **Hey! I’m Bhavya Khandelwal.**
 
-I'm a first-year B.Tech student CS at NMIMS MPSTME, Shirpur. I enjoy exploring emerging technologies, building practical projects, and continuously improving my programming skills.
+💻 **Computer Science Undergrad | 🚀 Aspiring Software Engineer | 🌱 Lifelong Learner**
 
-I'm currently at the beginning of my software development journey and believe that consistent learning and hands-on experience are the keys to growth. Every project I build teaches me something new and brings me one step closer to becoming a skilled AI engineer.
+I’m a first-year **B.Tech Computer Science student at NMIMS MPSTME, Shirpur**, currently exploring the world of technology one concept and project at a time.
 
-🎓 Education 🏫 NMIMS MPSTME, Shirpur 🎓 B.Tech in CS 📅 2026 – 2030
+From writing my first programs to experimenting with new technologies, I’m interested in understanding **how things work and how I can build them better**. I enjoy turning ideas into practical projects and learning from every challenge along the way.
+
+My goal is to become a **skilled software engineer** who can create useful, efficient, and impactful solutions. For now, I’m focused on strengthening my programming fundamentals, exploring different areas of computer science, and gaining real-world experience through projects. 🚀
+
+### 🎓 Education
+
+**NMIMS MPSTME, Shirpur**
+**B.Tech — Computer Science**
+**2026 – 2030**
